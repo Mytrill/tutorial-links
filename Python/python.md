@@ -4,7 +4,7 @@ TODO Description
 
 ## Super-topics
 
-- [Index](README.md)
+- [Index](~/README.md)
 
 ## Sub-topics
 
