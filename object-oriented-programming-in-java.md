@@ -4,8 +4,8 @@ TODO Description
 
 ## Super-topics
 
- - [Java](java.md)
- - [Object-oriented Programming](object-oriented-programming.md)
+- [Java](java.md)
+- [Object Oriented Programming](object-oriented-programming.md)
 
 ## Sub-topics
 

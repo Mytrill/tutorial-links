@@ -3,7 +3,9 @@
 TODO Description
 
 ## Super-topics
- - TODO
+
+- TODO
 
 ## Sub-topics
- - [Object-Oriented Programming in Java](object-oriented-programming-in-java.md)
+
+- [Object Oriented Programming in Java](object-oriented-programming-in-java.md)
