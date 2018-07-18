@@ -11,7 +11,7 @@ TODO Description
 
 ## Links
 
- - (Java Tutorial for Complete Beginners)[https://www.udemy.com/java-tutorial/]  
+ - [Java Tutorial for Complete Beginners](https://www.udemy.com/java-tutorial/)  
    Website: Udemy   
    Type: video   
    Prerequisites: none   
