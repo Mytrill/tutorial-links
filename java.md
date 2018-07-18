@@ -21,9 +21,9 @@ TODO Description
   Duration: 16h  
   Level: Beginner - Intermediate
 
-- [Introduction to Java Programming: Starting to code in Java](https://www.edx.org/course/introduction-to-java-programming-starting-to-code-with-java)
-  Type: Course
-  Prerequisites: None
-  Language: English
-  Duration: 35 - 50 hours
-  Level: Beginner
+- [Introduction to Java Programming: Starting to code in Java](https://www.edx.org/course/introduction-to-java-programming-starting-to-code-with-java)  
+  Type: Course  
+  Prerequisites: None  
+  Language: English  
+  Duration: 35 - 50 hours  
+  Level: Beginner  
