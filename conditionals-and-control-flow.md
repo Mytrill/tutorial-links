@@ -1,11 +1,12 @@
 # Conditionals and Control Flow
 
-Parent(s):
-- [Java](./java.md)
-
 TODO Description
 
-## [sub-topic](./sub-topic.md)
+Super-topic(s):
+- [Java](./java.md)
+
+Sub-topic(s):
+- [sub-topic](./sub-topic.md)
 
 ## Links
 - https://www.codecademy.com/courses/learn-java/lessons/conditionals-control-flow/exercises/decisions  
@@ -14,4 +15,4 @@ TODO Description
   Language: English  
   Duration: ?  
   Level: Beginner  
-  Comment: Registration  
+  Comment: Registration required  
