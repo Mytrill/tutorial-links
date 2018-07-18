@@ -1,7 +1,7 @@
 # Conditionals and Control Flow
 
 Parent(s):
-- [java.md](./java.md) Java
+- [Java](./java.md)
 
 TODO Description
 
@@ -9,9 +9,9 @@ TODO Description
 
 ## Links
 - https://www.codecademy.com/courses/learn-java/lessons/conditionals-control-flow/exercises/decisions
-  Website: Codecademy
-  Type: video
-  Language: English
-  Duration: ?
-  Level: Beginner
-  Comment: Registration
+  Website: Codecademy  
+  Type: video  
+  Language: English  
+  Duration: ?  
+  Level: Beginner  
+  Comment: Registration  
