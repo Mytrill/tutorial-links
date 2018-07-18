@@ -4,8 +4,8 @@ TODO Description
 
 ## Super-topics
 
-- [Python](python.md)
-- [Object Oriented Programming](object-oriented-programming.md)
+- [Python](../python.md)
+- [Object Oriented Programming](../object-oriented-programming.md)
 
 ## Sub-topics
 
