@@ -9,7 +9,7 @@ TODO Description
 ## Sub-topics
 
 - [Language Basics](python-language-basics.md)
-- [Object-oriented Programming in Python](object-oriented-programming-in-python.md)
+- [Object-oriented Programming in Python](../Object-Oriented-Programming-In-Python/object-oriented-programming-in-python.md)
 
 ## Links
 
