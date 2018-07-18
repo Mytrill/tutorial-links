@@ -6,7 +6,7 @@ TODO Description
  - [Index](./README.md)
 
 ## Sub-topics
- - [sub-topic1](./sub-topic1.md)
+ - [Conditionals and Control Flow](./conditionals-and-control-flow.md)
  - [sub-topic2](./sub-topic2.md)
 
 ## Links
