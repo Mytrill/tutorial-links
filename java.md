@@ -2,10 +2,10 @@
 
 TODO Description
 
-Super-topic(s):
+## Super-topics
  - [Index](./README.md)
 
-Sub-topic(s):
+## Sub-topics
  - [sub-topic1](./sub-topic1.md)
  - [sub-topic2](./sub-topic2.md)
 
