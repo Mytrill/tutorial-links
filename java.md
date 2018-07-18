@@ -7,7 +7,8 @@ TODO Description
 
 ## Sub-topics
  - [Conditionals and Control Flow](./conditionals-and-control-flow.md)
- - [sub-topic2](./sub-topic2.md)
+ - [Language Basics](./language-basics.md)
+ - [Object-oriented Programming in Java](./object-oriented-programming-in-java.md)
 
 ## Links
  - [Java Tutorial for Complete Beginners](https://www.udemy.com/java-tutorial/)  
