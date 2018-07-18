@@ -2,14 +2,14 @@
 
 TODO Description
 
-Super-topic(s):
+## Super-topic(s):
 - [Java](./java.md)
 
-Sub-topic(s):
+## Sub-topic(s):
 - [sub-topic](./sub-topic.md)
 
 ## Links
-- https://www.codecademy.com/courses/learn-java/lessons/conditionals-control-flow/exercises/decisions  
+- [Learn Java: Conditionals and Control Flow](https://www.codecademy.com/courses/learn-java/lessons/conditionals-control-flow)  
   Website: Codecademy  
   Type: video  
   Language: English  
